@@ -24,7 +24,7 @@ Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can ex
 6. Asess the data
 
 ### Tools:
-To extract Data from Twitter:
+### To extract Data from Twitter:
 - tweepy: twitters API that allows me to grab tweets
 - json: allows me to change the extract tweets, which comes in "tweepy.models.ResultSet", then dumps it into a
   json string, then loads it into a list of dictionaries (each dictionary is a tweet containing a Tweet Object)
@@ -35,10 +35,6 @@ To extract Data from Twitter:
   object."
   https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html
   
-#### To Extract Data from twitter:
-- tweepy: twitter client authentication and requests to get tweets
-- json: to transfer tweet objects to dictionary
-
 #### To Store Data:
 - mysql: allows me to connect to database insert rows of data into my database
 
@@ -50,7 +46,6 @@ To extract Data from Twitter:
 - re: helps me extract meta-characters and patterns (twitter handles, urls, encoded HTML, etc)
 - bs4: decodes HTML to general text
 - nltk: tokenizes words
-
 
 #### To make the analysis I am going to use a few important libraries such as: 
 - NLTK(Natural Language Toolkit): has an array of useful functions for natural language processing. 
