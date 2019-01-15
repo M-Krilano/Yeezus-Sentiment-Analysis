@@ -8,7 +8,7 @@ I hypothesize that Ye was significantly happier and more positive back in his ea
 Unfortunately Kanye only joined twitter in 2010 which was after a lot of his big albums, so I decided to take tweets from 2010 to 2012 (before he started dating Kim K) and use that for the "old_kanye" data set and use tweets from 2017 to present for the "current_kanye" data set 
 
 ### Update (after extracting all of Ye's tweets):
-Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can extract are from early April 2018 and one tweet from 2014. So I will just have to run a sentiment analysis on the data I have and won't be able to compare old and new tweets. 
+Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can extract are from early April 2018 and one tweet from 2014. So I will just have to run a sentiment analysis on the data I have and won't be able to compare old and new tweets...bummer 
 
 ### Method:
 1. I'm going to extract Kanye's tweets and insert them in a table in a mysql database
