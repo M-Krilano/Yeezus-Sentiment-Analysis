@@ -51,3 +51,5 @@ Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can ex
 - NLTK(Natural Language Toolkit): has an array of useful functions for natural language processing. 
 - TextBlob: to help us calculate sentiment
 - Word Cloud Library: to create some summary visualisations of our tweets
+- matplot: to make visualizations
+- sklearn: to build a matrix of token counts
