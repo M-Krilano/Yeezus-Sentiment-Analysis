@@ -1,14 +1,5 @@
 ## What's Up With Kanye West?
-Ever since I was in middle school I've been a huge Kanye West fan. I'm talking about pink-polo, white sunglasses and backpack Kanye...the old Kanye. I don't want to get tangled into the political drama that's going on with Kanye and his relationship with Trump; however, I am concerned for Kanye's mental health since he publicly stated he's depressed. It's understandable though, he's got a lot going on his plate from being a husband to Kim K, fathering three beautiful children, running his fashion line, and other "dope shit". It seemed like he was a lot happier back when he was young and choppin' up beats and interuppting Taylor Swift at award shows...or maybe that's just what I want to believe.
-
-### Hypothesis:
-I hypothesize that Ye was significantly happier and more positive back in his early career than the current yeezy we all know today.
-
-### Side Note:
-Unfortunately Kanye only joined twitter in 2010 which was after a lot of his big albums, so I decided to take tweets from 2010 to 2012 (before he started dating Kim K) and use that for the "old_kanye" data set and use tweets from 2017 to present for the "current_kanye" data set 
-
-### Update (after extracting all of Ye's tweets):
-Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can extract are from early April 2018 and one tweet from 2014. So I will just have to run a sentiment analysis on the data I have and won't be able to compare old and new tweets...bummer 
+Originially I wanted to take Kanye's tweets from 2010 to 2012 and use that for the "old_kanye" data set and use tweets from 2017 to present for the "current_kanye" data set but Kanye is Kanye and deletes his tweets all the time so the oldest tweets I can extract are from early April 2018 and one tweet from 2014. So I will just have to run a sentiment analysis on the data I have and won't be able to compare old and new tweets
 
 ### Method:
 1. I'm going to extract Kanye's tweets and insert them in a table in a mysql database
