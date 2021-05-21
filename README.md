@@ -12,7 +12,7 @@ Originially I wanted to take Kanye's tweets from 2010 to 2012 and use that for t
     (textblob)
 5. Visualize the data
     (wordcloud, sklearn, pyplot, matplotlib)
-6. Asess the data
+6. Assess the data
 
 ### Tools:
 ### To extract Data from Twitter:
